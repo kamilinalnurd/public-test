@@ -84,14 +84,13 @@
             v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
             id="21fd49ae-5a9d-49f8-a25d-e582a2a04198"
             v-bind:style="{'color':'#09cee1','width':'561px','height':'80px','zIndex':10,'fontSize':'80px','maxWidth':'','minWidth':'','fontStyle':'','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'Roboto-Regular,Roboto','fontWeight':'bold','lineHeight':'1','marginLeft':'0px','paddingTop':'0px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':''}"/>
-          <WLabel top="4.86362288260579%" left="39.96751189714262%" text="Jack Alvarez" v-bind:snapX="false"
+          <WLabel top="4.86362288260579%" left="39.96751189714262%" text="Kamokaizen" v-bind:snapX="false"
             v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom" ncTooltipText=""
             v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
             id="a5308d67-dd10-44d3-80b9-3a02b893f867"
             v-bind:style="{'color':'#ffffff','width':'','height':'','zIndex':11,'fontSize':'30px','maxWidth':'','minWidth':'','fontStyle':'','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'Roboto-Regular,Roboto','fontWeight':'bold','lineHeight':'1','marginLeft':'0px','paddingTop':'0px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':''}"/>
           <WCircleImage top="0.6355370691975055%" left="26.55049962837559%" v-bind:blank="false" v-bind:snapX="false"
-            v-bind:snapY="false" rounded="circle" stretch="none"
-            imageUrl="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/adb08e472ee954e79b986539/portrait-white-man-isolated_53876-40306.jpg"
+            v-bind:snapY="false" rounded="circle" stretch="none" imageUrl="https://kamilinal.com/img/profile.jpg"
             position="absolute" v-bind:isEnabled="true" v-bind:thumbnail="false" blankColor="black"
             v-bind:aspectRatio="true" dataLoading="static" ncTooltipText="Please write a text to display in tooltip..."
             v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':true,'structure':[{'type':'string','update':{'type':'dataModelForDynamicType'},'propName':'imageUrl','displayName':'Value'}]}"
